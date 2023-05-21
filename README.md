@@ -53,5 +53,3 @@
                `https://docs.netlify.com/api/get-started/#zip-file-method`
 
 
-
-`For any support /query, please contact vikas-kumar@hpe.com`
